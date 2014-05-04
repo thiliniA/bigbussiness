@@ -52,7 +52,7 @@ Released   : 20120210
 </form></div>
 	<div id="page-bottom" align="center">
 		<div id="page-bottom-content" >
-			<h5 align="justify"> This  System is developed as a requirement of final year individual project for  BIT degree program.</h5>
+			<h5 align="justify" style="margin-left:35px"> This  System is developed as a requirement of final year individual project for  BIT degree program.</h5>
       </div>
       <div align="center"><br class="clearfix" />
       </div>
